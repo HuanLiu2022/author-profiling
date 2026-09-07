@@ -4,7 +4,7 @@
 
 This project explores the identification of human and bot authors from social media text using Natural Language Processing and machine learning techniques.
 
-The project includes text preprocessing, feature engineering, and classification using different machine learning models. Character and word N-grams were investigated to improve the representation of social media text.
+The project uses a dataset of **over 440,000 social media posts** from human and bot authors. It includes text preprocessing, feature engineering, and classification using different machine learning models. Character and word N-grams were investigated to improve the representation of social media text.
 
 The best-performing model achieved an accuracy of **93.48%**.
 
